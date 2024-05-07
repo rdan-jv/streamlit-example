@@ -3,3 +3,7 @@ pandas
 streamlit
 IPython
 llama-index
+llama-index-core
+llama-index-llms-ollama
+llama-index-readers-file 
+llama-index-embeddings-huggingface
