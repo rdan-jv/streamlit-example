@@ -2,4 +2,4 @@ altair
 pandas
 streamlit
 IPython
-llama_index
+llama-index
