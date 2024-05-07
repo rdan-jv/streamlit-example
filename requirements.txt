@@ -1,3 +1,12 @@
 altair
 pandas
 streamlit
+IPython
+llama_index
+os
+base64
+gc
+random
+tempfile
+time
+uuid
