@@ -8,8 +8,6 @@ import tempfile
 import time
 import uuid
 
-from IPython.display import Markdown, display
-
 from llama_index.core import Settings
 from llama_index.llms.ollama import Ollama
 from llama_index.core import PromptTemplate
