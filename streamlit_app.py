@@ -5,8 +5,7 @@ import tempfile
 import uuid
 import requests
 
-from llama_index import PromptTemplate
-from llama_index.core import SimpleDirectoryReader
+from llama_index.core import SimpleDirectoryReader, PromptTemplate
 
 import streamlit as st
 
