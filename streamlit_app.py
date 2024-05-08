@@ -5,7 +5,9 @@ import tempfile
 import uuid
 import requests
 
-from llama_index import SimpleDirectoryReader, PromptTemplate
+from llama_index import PromptTemplate
+from llama_index.core import SimpleDirectoryReader
+
 import streamlit as st
 
 # Initialize session state
